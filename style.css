@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+
+
+* {
+ margin: 0px;
+ padding: 0px;
+}
+
+.logo {
+    padding: 20px;
+}
+
+.container {
+    text-align: center;
+    background-image: url(https://www.summitguides.se/wp-content/uploads/2020/12/LRM_EXPORT_5242889905596_20190924_201534515-scaled.jpeg);
+    height: 1000px
+}
+
+#yta {
+    color: white;
+    text-align: center;
+    font-family: 'Titan One', cursive;
+    font-size: 25px;
+    padding-top: 200px;
+
+}
+
+#btn {
+    font-family: 'Titan One', cursive;
+    background-color: #fafafa;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 20px;
+    margin: 20px;
+}

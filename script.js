@@ -3,7 +3,8 @@ let output = document.getElementById('yta');
 let quotes = [
     "Bestig ett berg",
     "Cykla på Välliste",
-    "Fjällvandra" 
+    "Fjällvandra", 
+    'string text',
 ]
 
 btn.addEventListener('click', function(){
